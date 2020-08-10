@@ -1,0 +1,14 @@
+{
+  "name": "find-missing-number",
+  "version": "1.0.0",
+  "description": "A nice function to find missing numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "SR",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.3.0"
+  }
+}
