@@ -11,3 +11,5 @@ function findMissing(numberArray) {
     }
   }
 }
+
+module.exports = findMissing;
